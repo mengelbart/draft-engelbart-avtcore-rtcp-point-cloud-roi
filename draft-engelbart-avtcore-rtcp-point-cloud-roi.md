@@ -8,7 +8,7 @@ number:
 date:
 consensus: true
 v: 3
-area: "Applications and Real-Time Area"
+area: "Web and Internet Transport"
 workgroup: "Audio/Video Transport Core Maintenance"
 keyword:
  - RTP
@@ -16,12 +16,12 @@ keyword:
  - ROI
  - Point Cloud
 venue:
-  group: avtcore
-  type: Working Group
-  mail: avt@ietf.org
-  arch: https://mailarchive.ietf.org/arch/browse/avt/
-  github: mengelbart/draft-engelbart-avtcore-rtcp-point-cloud-roi
-  latest: https://mengelbart.github.io/draft-engelbart-avtcore-rtcp-point-cloud-roi/draft-engelbart-avtcore-rtcp-point-cloud-roi.html
+  group: "Audio/Video Transport Core Maintenance"
+  type: "Working Group"
+  mail: "avt@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/avt/"
+  github: "mengelbart/draft-engelbart-avtcore-rtcp-point-cloud-roi"
+  latest: "https://mengelbart.github.io/draft-engelbart-avtcore-rtcp-point-cloud-roi/draft-engelbart-avtcore-rtcp-point-cloud-roi.html"
 
 author:
  -
