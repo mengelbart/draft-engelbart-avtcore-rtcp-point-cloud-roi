@@ -176,7 +176,7 @@ Attributes are additional values optionally associated with every point in a
 point cloud. The available attributes depend on the context of an application
 and thus need to be configured out-of-band. The attribute encoding described in
 this section requires mapping attributes to a bitmask value. {{sdp-parameters}}
-describes one option to negotiate the mapping when using SDP. 
+describes one option to negotiate the mapping when using SDP.
 
 To signal the presence of attributes per region, senders and receivers can use
 the octree encoding presented in {{octree-encoding}}. For every region presented
@@ -401,16 +401,16 @@ Reference:
 The following URI is requested to be added to the RTP Compact Header Extensions
 registry:
 
-Extension URI: 
+Extension URI:
   : urn:ietf:params:rtp-hdrext:octree-region
 
-Description: 
+Description:
   : Octree Encoded Region Information
 
-Contact: 
+Contact:
   : mathis.engelbart@gmail.com
 
-Reference: 
+Reference:
   : **TODO**: This document
 
 # Security Considerations {#security-considerations}
